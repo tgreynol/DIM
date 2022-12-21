@@ -1,0 +1,16 @@
+title:Seraph Temp
+description:Rolls for Season of the Seraph
+
+// Veles-X (pve,mnk)
+//notes: pandapaxxy (PvE / M+K): "This is Season 19’s ritual weapon. Veles-X is an aggressive burst pulse rifle that doesn’t need a raid to acquire. This is the first time since Black Armory that we can find this archetype in the “wild.” Insidious and Sacred Provenance are both native to raids. Veles-X is a way to feel out this archetype with a clear path to acquire. It has a pretty good standard roll. Every roll has chambered compensator and flared magwell for better recoil and better reload and stability. Repulsor brace is the only let down for me. If you are a void subclass main, it can be incredible to have a 45 health overshield on demand but having to stay on void lets it down a little bit. Neutrally, tunnel vision is easy to proc and you don’t have to think about it at all or set your subclass for it to work. If you happen to use void, however, getting golden tricorn 2x should be a cakewalk. The synergy is there to take this gun with echo of instability. Get a kill with Veles-X first, throw a grenade and get volatile rounds. You have golden tricorn 2x, this can stack with font of might for insane damage output. You have volatile rounds for add clear and if you get the kill you’ll have a small overshield to use. This is incredible for almost all activities. Unless you can’t get the grenade kill easily I would keep this in your inventory." [MW: Stability] tags:pve,mnk
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,1015611457
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,2610012052
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
+
+
+// Veles-X (mnk,pvp,controller)
+//notes: pandapaxxy (PvP / M+K / Controller): "Veles-X will still have some incredible usefulness in PvP as well. Tunnel vision and kill clip are perfect with one another. At base you have an incredible pulse that can two burst. With kill clip it makes that two burst more forgiving but you also have tunnel vision for more aim assist. With the recent change to kill clip and tunnel vision, both can be refreshed so it keeps both perks active whenever you get a kill." [MW: Stability] tags:mnk,pvp,controller
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
+
+
