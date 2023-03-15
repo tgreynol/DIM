@@ -1361,6 +1361,16 @@ dimwishlist:item=963710795&perks=3250034553,689005463,280464955,4082225868
 dimwishlist:item=963710795&perks=3250034553,689005463,280464955,3523296417
 
 
+// Aurvandil FR6 (pve,controller,mnk)
+//notes: DMB PVE 51: "Stats are not competitive. Reconstruction appearing for the first time on a non-raid, non-dungeon weapon. Reconstruction + chill clip is the chase roll. Minor or major spec mod." [MW: Anything but range] tags:pve,controller,mnk
+dimwishlist:item=963710795&perks=1840239774,2680121939,1523832109,2978966579
+dimwishlist:item=963710795&perks=1840239774,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=1840239774,2680121939,2039302152,2978966579
+dimwishlist:item=963710795&perks=1392496348,2680121939,1523832109,2978966579
+dimwishlist:item=963710795&perks=1392496348,2680121939,1820235745,2978966579
+dimwishlist:item=963710795&perks=1392496348,2680121939,2039302152,2978966579
+
+
 // IKELOS_SG_v1.0.3 (pve,controller,mnk)
 //notes: pandapaxxy (PvE): "It has been many, many moons since the Ikelos shotgun has been viable or even in the conversation. When it was reintroduced in season 11 it didn’t make much of a splash. Not much has changed and it still probably won’t make much of a splash this season either. In PvE the best shotguns are pin-point frames for damage, and dealer’s choice for general use. I do like rapid-fire frames with one-two punch builds as you don’t need a lot to hit max magazine and grave robber for “free” reloads. The synergy is there and it makes for a really fun game play cycle. Subsistence and trench barrel are good options together, as are pugilist and swashbuckler. I just don’t think with all the rapid-fire frame shotguns and PvE centered shotguns the Ikelos will really shine." [MW: Reload] tags:pve,controller,mnk
 dimwishlist:item=1168625549&perks=1300023272,106909392,1631667848,2679249093
@@ -2588,6 +2598,18 @@ dimwishlist:item=1851521408&perks=3250034553,1561002382,1428297954,1015611457
 dimwishlist:item=1851521408&perks=3250034553,1561002382,1428297954,124408337
 
 
+// Jararaca-3sr (pve,controller,mnk)
+//notes: DMB PvE 51: "A unique one; a stasis rapid-fire. Similar to Trustee, Aisha's, and Servant Leader. Stats are not great as it's a world drop. Minor spec for damage. May need to use damage-causing grenades to get golden tricorn to work well for you. This is the only scout with golden tricon." [MW: Stability or Range] tags:pve,controller,mnk
+dimwishlist:item=1851521408&perks=839105230,1885400500,1428297954,124408337
+dimwishlist:item=1851521408&perks=839105230,1885400500,1428297954,2610012052
+dimwishlist:item=1851521408&perks=839105230,1885400500,247725512,124408337
+dimwishlist:item=1851521408&perks=839105230,1885400500,247725512,2610012052
+dimwishlist:item=1851521408&perks=839105230,1561002382,1428297954,124408337
+dimwishlist:item=1851521408&perks=839105230,1561002382,1428297954,2610012052
+dimwishlist:item=1851521408&perks=839105230,1561002382,247725512,124408337
+dimwishlist:item=1851521408&perks=839105230,1561002382,247725512,2610012052
+
+
 // Blowout (pve,mnk,controller)
 //notes: pandapaxxy (PvE): "Blowout will be an alright addition to your arsenal. There isn’t much that this rocket does that others don’t besides dropping more frequently and having more perks with resets. The same “get damage perk, get reload perk” applies to Blowout. Frenzy, lasting impression, or chain reaction for add clear are all fantastic options. Field prep for near instant reloads, demolitionist for instant reloads, and ambitious assassin for bigger magazine are all the best in their slot." [MW: Reload] tags:pve,mnk,controller
 dimwishlist:item=1903182562&perks=1441682018,2985827016,2869569095,2396489472
@@ -3591,6 +3613,26 @@ dimwishlist:item=2328531378&perks=3250034553,1561002382,3523296417,1015611457
 dimwishlist:item=2328531378&perks=3250034553,1561002382,3523296417,1890422124
 
 
+// Lodbrok-C (pve,controller,mnk)
+//notes: DMB PvE 51: "Not many comparisons aside from False Promises and Herod-C (stasis variant). Synergy with FTTC + TL or osmosis + AJ. For target lock builds, use extended mag. Osmosis and AJ work well for volatile or unravel builds. Minor spec for damage." [MW: Range or stability] tags:pve,controller,mnk
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1354429876,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1354429876,11612903
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,2420895100,1774574192,11612903
+dimwishlist:item=2328531378&perks=1482024992,1561002382,1354429876,365154968
+dimwishlist:item=2328531378&perks=1482024992,1561002382,1354429876,11612903
+dimwishlist:item=2328531378&perks=1482024992,1561002382,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,1561002382,1774574192,11612903
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1354429876,365154968
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1354429876,11612903
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,1885400500,1774574192,11612903
+dimwishlist:item=2328531378&perks=1482024992,1968497646,1354429876,365154968
+dimwishlist:item=2328531378&perks=1482024992,1968497646,1354429876,11612903
+dimwishlist:item=2328531378&perks=1482024992,1968497646,1774574192,365154968
+dimwishlist:item=2328531378&perks=1482024992,1968497646,1774574192,11612903
+
+
 // Prolonged Engagement (pve,controller,mnk)
 //notes: pandapaxxy (PvE): "This submachine gun is incredible. Decent base stats, good base recoil direction, a million and a half perks. What could be better? Despite not having perfect recoil I would still try and hit 100 with arrowhead brake. Flared magwell or appended is dealer’s choice. I find with reload gauntlets or the plethora of ways to bypass reload are more than enough for me. Subsistence is one such way. Being able to ignore a whole stat on your weapon means you can invest those stat points into any other stat. You will still need to reload eventually and having a good reload stat will make that feel less like a slow molasses river. Finally there’s your damage perks. Frenzy is tried and true, and headstone is just a wonderful add clear perk. Multikill clip is best used with a dedicated reload perk like feeding frenzy or outlaw." [MW: Reload] tags:pve,controller,mnk
 dimwishlist:item=2349907931&perks=839105230,3230963543,1820235745,4104185692
@@ -3783,6 +3825,42 @@ dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,1015611457
 dimwishlist:item=2566006935&perks=3250034553,1561002382,4071163871,4082225868
 dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,1015611457
 dimwishlist:item=2566006935&perks=3250034553,1561002382,691659142,4082225868
+
+
+// Fioritura-59 (pve,controller,mnk)
+//notes: DMB PvE 51: "Stats are on the higher side. TD + repulsor, puglist + swash (although Brigand's law is better). Still a sidearm, unfortunately." tags:pve,controller,mnk
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,776531651
+dimwishlist:item=2566006935&perks=1482024992,3230963543,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1482024992,3230963543,691659142,776531651
+dimwishlist:item=2566006935&perks=1482024992,3230963543,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1885400500,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1885400500,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1885400500,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1561002382,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1561002382,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1561002382,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,1968497646,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,1968497646,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,1968497646,691659142,4082225868
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,776531651
+dimwishlist:item=2566006935&perks=1840239774,3230963543,4071163871,4082225868
+dimwishlist:item=2566006935&perks=1840239774,3230963543,691659142,776531651
+dimwishlist:item=2566006935&perks=1840239774,3230963543,691659142,4082225868
 
 
 // Stay Frosty (pve,controller,mnk)
