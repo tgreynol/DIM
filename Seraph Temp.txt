@@ -1,6 +1,14 @@
 title:Seraph Temp
 description:Rolls for Season of the Seraph
 
+// Long Arm (pvp,controller,mnk)
+//notes: DMB 292: "120 RPM, 1s optimal TTK against all resil (2c +1b for 3+ resil). Stats are not great. HIR would help this get to 1c + 2b for up to 8 resil. Use UP + HIR or rapid hit + EP for a flinch machine. Counterbalance mod." [MW: Range] tags:pvp,controller,mnk
+dimwishlist:item=8293111&perks=1482024992,3142289711,1645158859,2213355989
+dimwishlist:item=8293111&perks=1482024992,3142289711,1645158859,3038247973
+dimwishlist:item=8293111&perks=1482024992,3142289711,247725512,2213355989
+dimwishlist:item=8293111&perks=1482024992,3142289711,247725512,3038247973
+
+
 // Zephyr (pve,mnk,controller)
 //notes: pandapaxxy (PvE): "Zephyr was my favorite looking sword (right up until Hero of Ages released). It just looks cool. Besides the general Stasis sword go ColdSteel (brrrrrrrr) I would also recommend another roll. Unrelenting to get your health back and chain reaction for STASIS BOOM. Come on, that’s gonna be sweet." [MW: Impact] tags:pve,mnk,controller
 dimwishlist:item=396910433&perks=3666208348,269888150,3108830275,2396489472
@@ -53,6 +61,13 @@ dimwishlist:item=396910433&perks=938542991,269888150,3108830275,3708227201
 dimwishlist:item=396910433&perks=938542991,269888150,3108830275,3913600130
 dimwishlist:item=396910433&perks=938542991,269888150,3108830275,1546637391
 dimwishlist:item=396910433&perks=938542991,269888150,3108830275,3650930298
+
+
+// Terminus Horizon (pvp,controller,mnk)
+//notes: DMB 292: "Forgiving but not fast TTK with 3c 2b above 5 resil, or 4c at or below 5. Remember that backup mag mods (+3) or extended mag (+3) or both (+8) will give you more ammo from the wall. Mod is backup mag to gather more ammo." [MW: Range] tags:pvp,controller,mnk
+dimwishlist:item=487205709&perks=1482024992,1885400500,247725512,2213355989
+dimwishlist:item=487205709&perks=1482024992,1561002382,247725512,2213355989
+dimwishlist:item=487205709&perks=1482024992,2420895100,247725512,2213355989
 
 
 // Gunnora's Axe (pve,mnk,controller)
@@ -1509,6 +1524,18 @@ dimwishlist:item=1168625549&perks=1047830412,1087426260,1631667848,4082225868
 dimwishlist:item=1168625549&perks=1047830412,1087426260,1631667848,3751912585
 dimwishlist:item=1168625549&perks=1047830412,1087426260,1631667848,2679249093
 dimwishlist:item=1168625549&perks=1047830412,1087426260,1631667848,2360754333
+
+
+// Seventh Seraph Officer Revolver (pvp,controller,mnk)
+//notes: DMB 292: "180 RPM with 1s TKK (2c 2b). Looks slick. Not in the worst spot or best spot. Stats do need help, and perks have to make up for the subfamily. Do excel at AE as this HC archetype gives you a hidden +20 AE. Probably only good if you want to play with AE. Other better guns are Posterity, Frontier's Cry, Luna's Howl, and Not Forgotten."  [MW: Range] tags:pvp,controller,mnk
+dimwishlist:item=1555959830&perks=1482024992,1140096971,3722653512,2272927194
+dimwishlist:item=1555959830&perks=1482024992,1140096971,3722653512,438098033
+dimwishlist:item=1555959830&perks=1482024992,1140096971,2846385770,2272927194
+dimwishlist:item=1555959830&perks=1482024992,1140096971,2846385770,438098033
+dimwishlist:item=1555959830&perks=3661387068,1140096971,3722653512,2272927194
+dimwishlist:item=1555959830&perks=3661387068,1140096971,3722653512,438098033
+dimwishlist:item=1555959830&perks=3661387068,1140096971,2846385770,2272927194
+dimwishlist:item=1555959830&perks=3661387068,1140096971,2846385770,438098033
 
 
 // IKELOS_HC_v1.0.3 (pve,controller,mnk)
@@ -3497,6 +3524,13 @@ dimwishlist:item=2302346155&perks=1840239774,1087426260,1354429876,2896038713
 dimwishlist:item=2302346155&perks=1840239774,1087426260,1354429876,2402480669
 dimwishlist:item=2302346155&perks=1840239774,1087426260,2682205016,2896038713
 dimwishlist:item=2302346155&perks=1840239774,1087426260,2682205016,2402480669
+
+
+// Wilderflight (controller,mnk,pvp)
+//notes: DMB 292: "Blinding grenades is so good on this brand new archetype - a doublefire special grenade launcher. Maximize velocity and use disruption break to follow up with a kill shot. Disruption break lasts for 5.5 seconds - an eternity in PvP." [MW: Handling] tags:controller,mnk,pvp
+dimwishlist:item=2306182339&perks=3525010810,3032599245,3300816228,1683379515
+dimwishlist:item=2306182339&perks=3798852852,3032599245,3300816228,1683379515
+dimwishlist:item=2306182339&perks=1441682018,3032599245,3300816228,1683379515
 
 
 // Lodbrok-C (pve,controller,mnk)
@@ -5860,6 +5894,11 @@ dimwishlist:item=2978226043&perks=2713678205,679225683,1906147653,2241043034
 dimwishlist:item=2978226043&perks=2713678205,679225683,1906147653,3102670337
 
 
+// Judgment of Kelgorath (pvp,controller,mnk)
+//notes: DMB 292: "Fun build for swapping. Can go all range (impulse amplifier + ballistic tuning) or damage. The idea is to get a quick kill then stow for a quick swap later (essentially blinting) from something like a hand cannon. Mod should be freehand grip." [MW: Range or Handling] tags:pvp,controller,mnk
+dimwishlist:item=2978226043&perks=1263609309,3721627275,2586829431,951095735
+
+
 // Exalted Truth (pve,mnk,controller)
 //notes: pandapaxxy (PvE): "This is going to be Palindrome-lite. It won’t have the same all-encompassing perk pool that made Palindrome so good in all aspects of the game. But being a void hand cannon that can take adept mods, has frenzy and alacrity can come in handy when in GMs or master content. While it’s not a direct 1:1 it can fill a hole if you missed Palindrome before it was taken from the loot pool." [MW: Reload] tags:pve,mnk,controller
 dimwishlist:item=3102421004&perks=1482024992,1087426260,1168162263,1015611457
@@ -6332,6 +6371,16 @@ dimwishlist:item=3103325054&perks=839105230,2420895100,1409206216,288411554
 dimwishlist:item=3103325054&perks=839105230,2420895100,1409206216,2939589096
 
 
+// Liminal Vigil (pvp,controller,mnk)
+//notes: DMB 292: "0.73 optimal TTK against any resilience. Headstone is available in the 3rd column. The only range stats worth pursuing on sidearms is the rangefinder perk. Can reach a 0.57 TTK with desperado active (use tunnel vision), but empirical evidence is crafted and has a similar role using encore + adagio." [MW: Stability] tags:pvp,controller,mnk
+dimwishlist:item=3138208275&perks=1840239774,1885400500,1890422124,2846385770
+dimwishlist:item=3138208275&perks=1840239774,1885400500,1890422124,3047969693
+dimwishlist:item=3138208275&perks=1840239774,1885400500,124408337,2846385770
+dimwishlist:item=3138208275&perks=1840239774,1885400500,124408337,3047969693
+dimwishlist:item=3138208275&perks=1840239774,1885400500,2946784966,2846385770
+dimwishlist:item=3138208275&perks=1840239774,1885400500,2946784966,3047969693
+
+
 // Wendigo GL3 (pve,mnk,controller)
 //notes: pandapaxxy (PvE): "Wendigo is back! It now has random rolls and access to way more things than it used to. Is the current meta open enough to allow Wendigo to flex its tired muscles? I think so. GLs aren’t oppressive in PvP but they offer better in between than a rocket or a machine gun. It can clear rooms quickly and do decent single target damage. With a linear fusion rifle nerf incoming we might see a rise in grenade launcher usage. With Wendigo being at the top of the list. Spike will give you damage, but better utility might be blinding. If you want to go all into damage, spike grenades, golden tricorn, adept big ones, and font of might will give you some incredible damage output. It’s a lot harder to upkeep on a grenade launcher, and especially when you’re dealing with a boss with limited fodder you might not be able to sustain golden tricorn 2x. Even with that set up you will have some great burst damage." [MW: Reload] tags:pve,mnk,controller
 dimwishlist:item=3183283212&perks=3798852852,3301904089,3300816228,3194351027
@@ -6606,5 +6655,13 @@ dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,2652708987
 dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,1551736345
 dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,3007133316
 dimwishlist:item=3849444474&perks=2801223209,3429800428,169755979,617966211
+
+
+// Seventh Seraph Carbine (pvp,controller,mnk)
+//notes: DMB 292: "Precision frames have slightly more forgiveness with TTK. Archetype now has recent buff to body shot and headshot TTK. Target Lock decreases TTK to 0.67s. Also has a ton of consistency perks." [MW: Stability or Handling] tags:pvp,controller,mnk
+dimwishlist:item=4070357005&perks=1482024992,1140096971,1359896290,365154968
+dimwishlist:item=4070357005&perks=1482024992,1140096971,1359896290,2846385770
+dimwishlist:item=4070357005&perks=1482024992,1140096971,1359896290,588594999
+dimwishlist:item=4070357005&perks=1482024992,1140096971,1359896290,3511092054
 
 
